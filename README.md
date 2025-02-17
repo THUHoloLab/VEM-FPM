@@ -1,4 +1,4 @@
-# VEM-FPM
+# Variational EM framework for Fourier ptychography
 
 <div align="center">
 <img src="resources/EM_algo.gif" width = "830" alt="" align=center />
