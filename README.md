@@ -9,3 +9,8 @@ The following image shows the working pipeline for VEM-FPM. (a) Optical layout o
 <div align="center">
 <img src="resources/layout.png" width = "760" alt="" align=center />
 </div><br>
+
+# Comparison results
+<div align="center">
+<img src="resources/results.jpg" width = "760" alt="" align=center />
+</div><br>
