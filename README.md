@@ -14,5 +14,5 @@ The following image shows the working pipeline for VEM-FPM. (a) Optical layout o
 FPM reconstruction using VEM-FPM. (a) full-field reconstruction results and the first 9 images for the red channel. (b) quantitative intensity profile along the white lines in (c) and (d). (c, d) Zoom-in image for the yellow boxes in (a). Scale bar: 500 um for (a); 100 um for (c) and (d). A full-resolution image is available on [[Gigapan]](http://gigapan.com/galleries/13891/gigapans/235892).
 
 <div align="center">
-<img src="resources/results.jpg" width = "760" alt="" align=center />
+<img src="resources/results.jpg" width = "730" alt="" align=center />
 </div><br>
