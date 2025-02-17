@@ -5,7 +5,7 @@ This is the official implementation of variational Expectation Maximization Four
 # How to use
 
 # Variational Expectation Maximization
-
+The experiments layout of FPM is shown in (a). A programmable LED pannel illuminates the sample, and a 4f imaging system is used to collect the images.
 <div align="center">
-<img src="resources/layouts.png" width = "760" alt="" align=center />
+<img src="resources/layout.png" width = "760" alt="" align=center />
 </div><br>
