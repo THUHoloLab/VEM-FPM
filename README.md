@@ -12,6 +12,10 @@ The VEM-FPM alternates between solving a non-convex optimization problem to esti
 
 :mega:The VEM-FPM enables a stitching-free, full-field reconstruction for Fourier ptychography over a 5.3 mm × 5.3 mm field of view, using a $2.5\times$ objective with a numerical aperture (NA) of 0.08. The synthetic aperture achieves a resolution equivalent to 0.53 NA @ 532 nm wavelength. The execution speed of VEM-FPM is twice as fast as that of state-of-the-art feature-domain [methods](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-5-634&id=549881) while maintaining comparable reconstruction quality.
 
+## News
+- **2025/04/23:**  :sparkles: Our paper has been accepted by _**Photonics Research**_! <br>
+- **2024/02/23:** 🔥 We released our MATLAB codes! <br>
+
 ## How to use
 MATLAB codes for VEM-FPM are available in the folder "VEM_FPM". 
 
