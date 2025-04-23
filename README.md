@@ -14,7 +14,7 @@ The VEM-FPM alternates between solving a non-convex optimization problem to esti
 
 ## News
 - **2025/04/23:**  :sparkles: Our paper has been accepted by _**Photonics Research**_! <br>
-- **2024/02/23:** 🔥 We released our MATLAB codes! <br>
+- **2025/02/23:** 🔥 We released our MATLAB codes! <br>
 
 ## How to use
 MATLAB codes for VEM-FPM are available in the folder "VEM_FPM". 
